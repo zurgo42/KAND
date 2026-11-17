@@ -29,7 +29,7 @@ Umfassende Anleitung für Administratoren des Wahlinfo-Systems.
 
 ```bash
 # Repository klonen oder Dateien hochladen
-git clone https://github.com/zurgo42/Wahlinfo.git
+git clone https://github.com/zurgo42/KAND.git
 cd Wahlinfo
 ```
 

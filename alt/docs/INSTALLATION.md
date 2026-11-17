@@ -17,7 +17,7 @@
 
 ```bash
 # Repository klonen oder Dateien kopieren
-git clone https://github.com/zurgo42/Wahlinfo.git
+git clone https://github.com/zurgo42/KAND.git
 cd Wahlinfo
 ```
 
@@ -296,7 +296,7 @@ Prüfen Sie insbesondere:
 
 ## Support
 
-- **Repository**: https://github.com/zurgo42/Wahlinfo
+- **Repository**: https://github.com/zurgo42/KAND
 - **Issues**: GitHub Issue Tracker
 
 ---

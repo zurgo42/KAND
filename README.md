@@ -70,3 +70,12 @@ Prüfungen (an der Demo bzw. dem Testsystem, jeweils in einer Transaktion, rollt
 
 - Übernahme der Daten aus dem alten Wahlinfo (Tabellen `wahl2025*`, `wahl2026*`, siehe `alt/database/init-db.sql`).
 - Die Anbindung an einen echten LDAP-Server ist nach dem Muster des alten Stands (`alt/includes/functions.php`) gebaut, aber ohne Server nur mit Testdaten geprüft.
+
+## Lizenz
+
+Copyright (C) 2026 Hermann Meier
+
+KAND ist freie Software: Sie können es unter den Bedingungen der **GNU Affero General Public License** (Version 3, siehe Datei `LICENSE`)
+weitergeben und/oder verändern. Es wird in der Hoffnung bereitgestellt, nützlich zu sein, aber **ohne jede Gewährleistung**.
+Wer KAND verändert und anderen als Webanwendung zur Verfügung stellt, muss den geänderten Quelltext ebenfalls unter dieser Lizenz zugänglich machen.
+Der Ordner `alt/` enthält den früheren Stand (Wahlinfo) und steht unter derselben Lizenz.
